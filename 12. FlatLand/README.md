@@ -9,15 +9,23 @@ Output:
 For each testcase, output a single integer denoting the number of squares.
 
 Constraints
+
 1≤T≤1000
+
 1≤N≤1000
+
 Sample Input:
+
 2
+
 85
+
 114
 
 Sample Output:
+
 2
+
 4
 
 EXPLANATION:
