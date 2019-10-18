@@ -14,18 +14,35 @@ Output
 For each test case, print a single line containing one string — the encoded message.
 
 Constraints
+
 1≤T≤1,000
+
 1≤N≤100
+
 |S|=N
+
 S contains only lowercase English letters
+
 Example Input
+
 2
+
 9
+
 sharechat
+
 4
+
 chef
+
 Example Output
+
 shizxvzsg
+
 sxuv
+
 Explanation
-Example case 1: The original message is "sharechat". In the first step, we swap four pairs of letters (note that the last letter is not swapped), so it becomes "hsraceaht". In the second step, we replace the first letter ('h') by 's', the second letter ('s') by 'h', and so on, so the resulting encoded message is "shizxvzsg".
+
+Example case 1: The original message is "sharechat". In the first step, we swap four pairs of letters (note that the last 
+letter is not swapped), so it becomes "hsraceaht". In the second step, we replace the first letter ('h') by 's', the second 
+letter ('s') by 'h', and so on, so the resulting encoded message is "shizxvzsg".
