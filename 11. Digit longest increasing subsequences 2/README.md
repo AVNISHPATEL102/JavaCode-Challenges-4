@@ -15,31 +15,58 @@ Output
 For each test case, output a single n-digit number (without leading zeroes) having exactly the given LIS array. If there are multiple n-digit numbers satisfying this requirement, any of them will be accepted.
 
 Constraints
+
 1 ≤ T ≤ 30 000
+
 1 ≤ n ≤ 9
+
 It is guaranteed that at least one n-digit number having the given LIS array exists
+
 Example
+
 Input:
+
 5
+
 1 
+
 1
+
 2 
+
 1 2
+
 2 
+
 1 1
+
 4
+
 1 2 2 1
+
 7 
+
 1 2 2 1 3 2 4
 
+
+
 Output:
+
 7
+
 36
+
 54
+
 1531
+
 1730418
+
 Explanation
+
 Example case 1. All one-digit numbers have the same LIS array, so any answer from 0 to 9 will be accepted.
+
+
 
 Example cases 2 & 3. For a two digit number we always have LIS1 = 1, but the value of LIS2 depends on whether the first digit is strictly less than the second one. If this is the case (like for number 36), LIS2 = 2, otherwise (like for numbers 54 or 77) the values of LIS2 is 1.
 
