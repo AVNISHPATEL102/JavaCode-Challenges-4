@@ -32,7 +32,6 @@ Constraints
 
 1 ≤ Ai ≤ 1,000
  
-
 Example
 
 Input:
