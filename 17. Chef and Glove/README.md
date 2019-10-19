@@ -17,11 +17,17 @@ Output
 For each test case, print a single line containing one of the strings "front", "back", "both", or "none".
 
 Constraints
+
 1 ≤ T ≤ 10
+
 1 ≤ N ≤ 105
+
 1 ≤ Li ≤ 109 for each valid i
+
 1 ≤ Gi ≤ 109 for each valid i
+
 Subtasks
+
 Subtask #1 (30 points): 1 ≤ N ≤ 102
 
 Subtask #2 (70 points): original constraints
@@ -30,26 +36,48 @@ Example
 Input
 
 4
+
 3
+
 1 2 3
+
 2 3 4
+
 3
+
 1 2 1
+
 1 2 1
+
 3
+
 3 2 1
+
 1 2 3
+
 4
+
 1 3 2 4
+
 1 2 3 5
+
+
 
 Output
 
+
+
 front
+
 both
+
 back
+
 none
+
 Explanation
-Example case 1: The glove can be worn normally, with its front side facing Chef. The lengths of the glove sheaths are 2, 3, 4. The lengths of the fingers are 1, 2, 3. Each of the fingers will fit in the corresponding glove sheath, that is, 1 ≤ 2, 2 ≤ 3 and 3 ≤ 4.
+
+Example case 1: The glove can be worn normally, with its front side facing Chef. The lengths of the glove sheaths are 2, 3, 4. 
+The lengths of the fingers are 1, 2, 3. Each of the fingers will fit in the corresponding glove sheath, that is, 1 ≤ 2, 2 ≤ 3 and 3 ≤ 4.
 
 However, if Chef tries to wear the glove with its back facing her, then the lengths of the sheaths will be 4, 3, 2. The first two fingers, which have lengths 1 and 2, will fit into the corresponding sheaths, but the 3rd finger won't fit because its length is 3, and the length of the corresponding sheath is 2. Hence, this glove can be worn only in one way, and we output "front".
