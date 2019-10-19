@@ -44,8 +44,6 @@ Input
 
 2 3 4
 
-
-
 Output
 
 yes
