@@ -5,6 +5,7 @@ Chef can wear the glove normally (the front side of the glove matching the front
 Find out whether Chef can wear the glove by keeping its front side facing her, or if she can wear it by flipping it over and facing its back side. If she can only wear the glove in the former way, output "front"; if she can wear it only in the latter way, output "back". If both front and back orientations can be used, output "both", and if she can't wear it either way, output "none".
 
 Input
+
 The first line of the input contains a single integer T denoting the number of test cases. The description of T test cases follows.
 
 The first line of each test case contains a single integer N denoting the number of Chef's fingers.
