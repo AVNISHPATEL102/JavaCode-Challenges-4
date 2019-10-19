@@ -25,22 +25,37 @@ Output
 For each test-case output a single line containing a single number denoting the probability that Chefu's solution to output a correct answer. your answer will be accepted if the absolute difference between it and correct answer is less than 1e-6
 
 Constraints
+
 1 ≤ T ≤ 100
+
 2 ≤ N ≤ 100
+
 1 ≤ Ai ≤ 1,000
  
 
 Example
+
 Input:
+
 3
+
 4
+
 3 3 3 3
+
 6
+
 1 1 1 2 2 2
+
 4
+
 1 2 2 3
 
 Output:
+
 1.00000000
+
 0.20000000
+
 0.33333333
+
