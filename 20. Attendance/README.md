@@ -12,22 +12,39 @@ Output
 For each test case, print N lines. For each valid i, the i-th of these lines should describe how Chef calls out the i-th student's name ― it should contain either the first name or the first and last name separated by a space.
 
 Constraints
+
 1≤T≤100
+
 2≤N≤100
+
 all first and last names contain only lowercase English letters
+
 the lengths of all first and last names are between 1 and 10 inclusive
+
 Subtasks
+
 Subtask #1 (100 points): original constraints
 
 Example Input
+
 1
+
 4
+
 hasan jaddouh
+
 farhod khakimiyon
+
 kerim kochekov
+
 hasan khateeb
+
 Example Output
+
 hasan jaddouh
+
 farhod
+
 kerim
+
 hasan khateeb
