@@ -17,8 +17,11 @@ For each test case, output a single line containing the number of milliseconds u
  
 
 Constraints
+
 1 ≤ T ≤ 10
+
 2 ≤ N ≤ 500
+
 1 ≤ Ai ≤ 109
  
 
