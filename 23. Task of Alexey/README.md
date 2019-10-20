@@ -26,17 +26,29 @@ Constraints
  
 
 Subtasks
+
 Subtask #1 (10 points) 1 ≤ T ≤ 10, 2 ≤ N ≤ 9, 1 ≤ Ai ≤ 500
+
 Subtask #2 (20 points) 1 ≤ T ≤ 10, 2 ≤ N ≤ 500, 1 ≤ Ai ≤ 1000
+
 Subtask #3 (70 points) original constraints
+
 Example
+
 Input:
+
 3
+
 3
+
 2 3 5
+
 4
+
 1 8 7 11
+
 4
+
 4 4 5 6
 
 Output:
