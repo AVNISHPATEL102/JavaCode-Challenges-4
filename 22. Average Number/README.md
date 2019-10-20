@@ -12,22 +12,40 @@ Output
 For each test case, print a single line containing one integer — the value of the deleted elements, or −1 if there is a mistake.
 
 Constraints
+
 1≤T≤100
+
 1≤N,K≤100
+
 1≤V≤105
+
 1≤Ai≤105 for each valid i
+
 Subtasks
+
 Subtask #1 (100 points): original constraints
 
 Example Input
+
 3
+
 3 3 4
+
 2 7 3
+
 3 1 4
+
 7 6 5
+
 3 3 4
+
 2 8 3
+
 Example Output
+
 4
+
 -1
+
 -1
+
