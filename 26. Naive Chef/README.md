@@ -12,12 +12,19 @@ Output
 For each test case, print a single line containing one real number — the probability that Chef will win. Your answer will be considered correct if its absolute error does not exceed 10−6.
 
 Constraints
+
 1≤T≤70
+
 1≤N≤104
+
 1≤A≤N
+
 1≤B≤N
+
 1≤xi≤N for each valid i
+
 Subtasks
+
 Subtask #1 (20 points):
 
 T≤10
