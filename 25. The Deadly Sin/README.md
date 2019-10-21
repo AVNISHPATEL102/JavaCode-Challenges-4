@@ -8,12 +8,19 @@ Output:
 For each testcase, output in a single line the no of chocolates that remain after Ban and Meliodas stop fighting.
 
 Constraints
+
 1≤T≤100000
+
 0≤X,Y≤109
+
 Sample Input:
+
 3
+
 5 3
+
 10 10
+
 4 8
 
 Sample Output:
