@@ -18,16 +18,27 @@ Output
 For each test case, print N lines; each of them should contain N space-separated integers.
 
 Constraints
+
 1≤T≤10
+
 1≤N≤100
+
 Subtasks
+
 Subtask #1 (100 points): Original constraints
 
 Example Input
+
 1
+
 4
+
 Example Output
+
 1 2 4 7
+
 3 5 8 11
+
 6 9 12 14
+
 10 13 15 16
