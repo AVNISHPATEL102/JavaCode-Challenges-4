@@ -1,9 +1,14 @@
 Consider the following 4×4 pattern:
 
- 1  2  4  7
- 3  5  8 11
- 6  9 12 14
+
+1  2  4  7
+
+3  5  8 11
+
+6  9 12 14
+
 10 13 15 16
+
 You are given an integer N. Print the N×N pattern of the same kind (containing integers 1 through N2).
 
 Input
