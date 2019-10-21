@@ -28,15 +28,25 @@ Subtasks
 Subtask #1 (20 points):
 
 T≤10
+
 N≤100
+
 Subtask #2 (80 points): original constraints
 
 Example Input
+
 2
+
 5 1 1
+
 1 1 1 1 1
+
 2 1 1
+
 1 2
+
 Example Output
+
 1.0000000000
+
 0.2500000000
