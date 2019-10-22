@@ -18,17 +18,25 @@ The first line of the input contains an integer T denoting the number of test ca
 Each of the next T lines contain five space separated integers S, SG, FG, D, T corresponding to the Sebi's car speed, Sebi's guess, his father's guess, D as defined in the statement and the time at which both the cars at against the markers (in seconds), respectively.
 
 Output
+
 Output description.
 
 For each test case, output a single line containing "SEBI", "FATHER" or "DRAW" (without quotes) denoting whose guess is better.
 
 Constraints
+
 1 ≤ T ≤ 10000
+
 0 ≤ S ≤ 130
+
 0 ≤ SG, FG ≤ 300
+
 1 ≤ D ≤ 30
+
 1 ≤ T ≤ 300
+
 The other car speed doesn't exceed 300 kph.
+
 Example
 Input:
 2
