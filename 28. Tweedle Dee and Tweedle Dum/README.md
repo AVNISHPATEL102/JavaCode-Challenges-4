@@ -34,6 +34,9 @@ Input:
 2 2
 
 Output:
+
 Dum
+
 Explanation
+
 Tweedle-Dee takes two stones from any of the heaps leaving just one non empty heap, next Tweedle-Dum takes one stone and the game finishes.
