@@ -30,12 +30,19 @@ Subtasks
 Subtask #1 (100 points): original constraints
 
 Example Input
+
 1
+
 5 2 4
+
 4 2
+
 3 4
+
 3 2
+
 1 2
+
 Example Output
 1
 Explanation
