@@ -24,9 +24,13 @@ Constraints
 1 ≤ ai ≤ 50
 
 Example
+
 Input:
+
 1
+
 2 Dee
+
 2 2
 
 Output:
