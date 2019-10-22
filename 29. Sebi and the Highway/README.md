@@ -38,15 +38,23 @@ Constraints
 The other car speed doesn't exceed 300 kph.
 
 Example
+
 Input:
+
 2
+
 100 180 200 20 60
+
 130 131 132 1 72
 
 Output:
+
 SEBI
+
 FATHER
+
 Explanation
+
 Example case 1.
 
 There are total 20 - 1 = 19 markers in between the Sebi's car and the other car. So, the distance between those cars at time T is 20 * 50 = 1000 meters = 1 km.
