@@ -44,11 +44,18 @@ Example Input
 1 2
 
 Example Output
+
 1
+
 Explanation
+
 Example case 1:
 
+
 after the first swap, the coin is in box 4
+
 after the second swap, the coin is in box 3
+
 after the third swap, the coin is in box 2
+
 after the fourth swap, the coin is in box 1
