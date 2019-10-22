@@ -12,13 +12,21 @@ Output
 For each test case, print a single line containing one integer — the number of the box containing the gold coin after all swaps are performed.
 
 Constraints
+
 1≤T≤100
+
 2≤N≤105
+
 1≤S≤104
+
 1≤X,A,B≤N
+
 A≠B
+
 the sum of S for all test cases does not exceed 2∗105
+
 Subtasks
+
 Subtask #1 (100 points): original constraints
 
 Example Input
