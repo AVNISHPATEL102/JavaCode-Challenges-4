@@ -15,9 +15,14 @@ Output
 For each test case, output a single line containing either "Dee" if Twedle-Dee winns the game or "Dum" otherwise.
 
 Constraints
+
+
 1 ≤ T ≤ 50
+
 1 ≤ N ≤ 50
+
 1 ≤ ai ≤ 50
+
 Example
 Input:
 1
