@@ -14,32 +14,49 @@ Output
 For each test case, print a single line containing one real number — the total amount of money lost. Your answer will be considered correct if it has an absolute error less than 10-2.
 
 Constraints
+
 1 ≤ T ≤ 10
+
 1 ≤ N ≤ 105
+
 1 ≤ pricei, quantityi ≤ 100 for each valid i
+
 0 ≤ discounti ≤ 100 for each valid i
+
 Subtasks
+
 Subtask #1 (30 points): 1 ≤ N ≤ 100
 
 Subtask #2 (70 points): original constraints
 
 Example
+
 Input:
 
 2
+
 2
+
 100 5 10
+
 100 1 50
+
 3
+
 10 10 0
+
 79 79 79
+
 100 1 100
 
 Output:
 
 30.000000000
+
 3995.0081000
+
 Explanation
+
 Example case 1: There are two recipes.
 
 There are 5 recipes of the first type, each of them has a price of 100 and there is a 10% discount provided on it. Therefore, Chef first increases the price of each recipe by 10%, from 100 to 110. After that, she decreases the price by 10%, which makes the final price 99. The amount of money lost for each unit is 1, thus losing 5 for recipes of the first type.
