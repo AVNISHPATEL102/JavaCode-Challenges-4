@@ -23,14 +23,23 @@ Subtasks
 Subtask #1 (100 points): original constraints
 
 Example Input
+
 3
+
 1 3 2
 0 3 2
+
 34 55 2
+
 Example Output
+
 CHEF
+
 COOK
+
 CHEF
+
 Explanation
+
 Example case 1: Chef serves for the first two points, Cook serves for the next two, so Chef has to serve again now.
 
