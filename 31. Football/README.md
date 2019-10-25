@@ -13,24 +13,46 @@ Output
 For each test case, print a single line containing one integer ― the maximum number of points.
 
 Constraints
+
 1≤T≤100
+
 1≤N≤150
+
 0≤Ai≤50 for each valid i
+
 0≤Bi≤50 for each valid i
+
 Subtasks
+
 Subtask #1 (30 points): 1≤N≤2
+
 Subtask #2 (70 points): original constraints
 
+
+
 Example Input
+
 2
+
 3
+
 40 30 50
+
 2 4 20
+
 1
+
 0
+
 10
+
 Example Output
+
 800
+
 0
+
 Explanation
-Example case 1: The first player gets 800 points for scoring goals and has 20 points deducted for fouls. Likewise, the second player gets 560 points and the third player gets 800 points. The third player is the one with the maximum number of points
+
+Example case 1: The first player gets 800 points for scoring goals and has 20 points deducted for fouls. Likewise, the second 
+player gets 560 points and the third player gets 800 points. The third player is the one with the maximum number of points
