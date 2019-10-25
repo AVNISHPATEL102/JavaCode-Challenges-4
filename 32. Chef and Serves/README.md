@@ -11,10 +11,15 @@ Output
 For each test case, print a single line containing the string "CHEF" if it is Chef's turn or "COOK" if it is Cook's turn.
 
 Constraints
+
 1≤T≤105
+
 1≤K≤109
+
 0≤P1,P2≤109
+
 Subtasks
+
 Subtask #1 (100 points): original constraints
 
 Example Input
