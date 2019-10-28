@@ -15,9 +15,13 @@ Output
 For each test case, print a single line containing the string "YES" if it is possible to obtain a=b or "NO" if it is impossible.
 
 Constraints
+
 1≤T≤1,000
+
 1≤a,b≤109
+
 Subtasks
+
 Subtaks #1 (100 points): original constraints
 
 Example Input
