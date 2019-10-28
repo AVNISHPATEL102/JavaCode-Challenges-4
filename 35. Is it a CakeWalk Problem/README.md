@@ -9,11 +9,17 @@ Tell whether the problem is indeed a cakewalk or not.
 Input
 The first line of the input contains a single integer T, which denotes the number of test cases.
 Each test case consists of 10 lines. Each of the next 10 lines contain 10 space-separated integers denoting the times taken by the people in that corresponding row.
+
 Output
+
 For each test case output either "yes" or "no", in a new line, corresponding to whether it was a cakewalk problem or not.
+
 Constraints
+
 1≤T≤100
+
 1≤ time taken by each user ≤60
+
 Sample Input
 2
 1 1 1 1 1 1 1 1 1 1
