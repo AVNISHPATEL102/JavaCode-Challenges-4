@@ -15,10 +15,15 @@ Output
 Print a single line containing one integer — the minimum number of coins Chef has to pay.
 
 Constraints
+
 1≤N≤1,000
+
 1≤ci≤100,000 for each valid i
+
 1≤ti≤3 for each valid i
+
 Subtasks
+
 Subtask #1 (15 points): all workers are author-translators
 
 Subtask #2 (85 points): original constraints
