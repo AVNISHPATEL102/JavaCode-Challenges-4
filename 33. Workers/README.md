@@ -31,10 +31,15 @@ Subtask #2 (85 points): original constraints
 Example Input
 
 5   
+
 1 3 4 6 8   
+
 1 2 1 2 3   
+
 Example Output
 
 4
+
 Explanation
+
 Chef can hire 2 workers: worker 1, who is a translator, and worker 2, who is an author. In total, he pays them 1+3=4 coins.
