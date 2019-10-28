@@ -33,7 +33,9 @@ Example Input
 Example Output
 
 YES
+
 Explanation
+
 Example case 1: One possible strategy for Chef is:
 
 choose d=10, add d−1=9 to a and d=10 to b; after this operation, a=14 and b=17
