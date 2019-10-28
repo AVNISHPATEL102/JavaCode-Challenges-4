@@ -65,9 +65,13 @@ Sample Input
 31 32 33 34 35 36 37 38 39 40
 
 Sample Output
+
 yes
+
 no
+
 Explanation
+
 Testcase 1: The problem was too easy, it was solved by everyone in the first minute itself. This is a cakewalk problem.
 
 Testcase 1: 59 people solved it under 30 minutes. We should have at least 60 people to solve the problem under 30 minutes. This problem is not a cakewalk problem.
