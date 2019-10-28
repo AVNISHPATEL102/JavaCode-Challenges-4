@@ -39,6 +39,9 @@ Explanation
 Example case 1: One possible strategy for Chef is:
 
 choose d=10, add d−1=9 to a and d=10 to b; after this operation, a=14 and b=17
+
 choose d=10, add d=10 to a and d−1=9 to b; afterwards, a=24 and b=26
+
 choose d=9, add d=9 to a and d−1=8 to b; afterwards, a=33 and b=34
+
 choose d=9, add d to a and d−1 to b; finally, we have a=b=42
